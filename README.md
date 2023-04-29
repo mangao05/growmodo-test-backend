@@ -13,7 +13,7 @@ This is the Laravel backend for the Growmodo Test project. The frontend UI for t
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/growmodo-test-backend.git
+git clone https://github.com/mangao05/growmodo-test-backend.git
 ```
 
 2. Change directory to the project folder:
